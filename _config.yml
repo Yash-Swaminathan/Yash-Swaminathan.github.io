@@ -14,7 +14,8 @@ footer_text: >
 
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: <img src="icon.webp" alt="Icon" />
+icon: "assets/img/icon.webp"
+
 
 url: https://Yash-Swaminathan.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
