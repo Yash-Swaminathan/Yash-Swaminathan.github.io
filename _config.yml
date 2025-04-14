@@ -9,12 +9,12 @@ last_name: Swaminathan
 contact_note: >
   The best way to get in touch is via email at yswamina@uwaterloo.ca or by calling 587-973-3171. I welcome connections about fresh ideas, unique opportunities, or simply having a conversation!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
-  
+
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: <img src="icon.webp" alt="Icon" /> 
+icon: <img src="icon.webp" alt="Icon" />
 
 url: https://Yash-Swaminathan.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
