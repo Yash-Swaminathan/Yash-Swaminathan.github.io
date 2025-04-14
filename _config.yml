@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yash Swaminathan's Portfolio # the website title (if blank, full name will be used instead)
+title: Yash's Portfolio # the website title (if blank, full name will be used instead)
 first_name: Yash
 middle_name:
 last_name: Swaminathan
@@ -13,7 +13,7 @@ footer_text: >
 
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: "icon.webp" # the icon for your site (favicon)
+icon: "icon.PNG" # the icon for your site (favicon)
 
 
 url: https://Yash-Swaminathan.github.io # the base hostname & protocol for your site
