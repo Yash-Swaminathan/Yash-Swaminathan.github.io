@@ -31,9 +31,9 @@
     {
       "name": "Turing",
       "position": "Software Developer Intern (CO-OP)",
-      "url": "https://www.turing.com",
-      "startDate": "2025-01-01",
-      "endDate": "2025-04-01",
+      "url": "https://theturingcompany.com/",
+      "startDate": "2025-01-13",
+      "endDate": "2025-04-25",
       "summary": "Developed FastAPI endpoints and unit tests to ensure reliable API behavior, resolved technical issues including Docker misconfigurations and API bottlenecks, and streamlined project workflows using Bitbucket and Jira.",
       "highlights": [
         "Developed FastAPI endpoints and unit tests",
@@ -68,7 +68,23 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Community Youth Basketball Program",
+      "position": "Basketball Coach",
+      "url": "https://communityybasketball.example.com",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "summary": "Coached 8th grade students in basketball, emphasizing skill development, teamwork, and sportsmanship.",
+      "highlights": [
+        "Developed engaging practice sessions to improve fundamentals such as dribbling, passing, and shooting.",
+        "Implemented strategic game plans to enhance both offensive and defensive skills.",
+        "Mentored students on teamwork, leadership, discipline, and maintaining a healthy lifestyle.",
+        "Organized intra-school tournaments and community events to foster a competitive yet supportive environment."
+      ]
+    }
+  ],
+
   "education": [
     {
       "institution": "University of Waterloo",
