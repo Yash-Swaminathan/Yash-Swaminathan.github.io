@@ -79,11 +79,7 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "SYDE 223 - Data Structures and Algorithms",
-        "SYDE 101L - Solidworks",
-        "SYDE 121 - Digital Computation (C++)"
-      ]
+      "courses": ["SYDE 223 - Data Structures and Algorithms", "SYDE 101L - Solidworks", "SYDE 121 - Digital Computation (C++)"]
     }
   ],
   "awards": [],
@@ -138,13 +134,7 @@
     {
       "name": "Technology & Innovation",
       "icon": "fa-solid fa-lightbulb",
-      "keywords": [
-        "Software Development",
-        "Data Science",
-        "Machine Learning",
-        "Network Security",
-        "Open Source"
-      ]
+      "keywords": ["Software Development", "Data Science", "Machine Learning", "Network Security", "Open Source"]
     }
   ],
   "references": [
@@ -158,11 +148,7 @@
     {
       "name": "Network Anomaly Detection System",
       "summary": "Built a real-time threat detection system with deep autoencoders and isolation forests. Engineered a comprehensive pipeline and deployed a FastAPI backend connected to a dynamic React dashboard for real-time anomaly visualization.",
-      "highlights": [
-        "Real-time anomaly detection",
-        "Deep autoencoders and isolation forests",
-        "FastAPI backend and React dashboard"
-      ],
+      "highlights": ["Real-time anomaly detection", "Deep autoencoders and isolation forests", "FastAPI backend and React dashboard"],
       "startDate": "",
       "endDate": "",
       "url": "https://github.com/Yash-Swaminathan/NetAnomaly"
@@ -181,4 +167,3 @@
     }
   ]
 }
-
