@@ -1,7 +1,6 @@
 github_users:
   - Yash-Swaminathan
 
-
 repo_description_lines_max: 2
 
 github_repos:
@@ -10,4 +9,3 @@ github_repos:
   - Yash-Swaminathan/Stock-Market-Predictor
   - Yash-Swaminathan/MERN-Project
   - Yash-Swaminathan/library-system
-
