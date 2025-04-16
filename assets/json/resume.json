@@ -69,11 +69,11 @@
   ],
   "volunteer": [
     {
-      "organization": "Community Youth Basketball Program",
+      "organization": "Cochrane Minor Basketball",
       "position": "Basketball Coach",
       "url": "http://cochraneminorbasketball.com/",
       "startDate": "2021-09-01",
-      "endDate": "Present",
+      "endDate": "2024-03-01",
       "summary": "Coached 8th grade students in basketball, emphasizing skill development, teamwork, and sportsmanship.",
       "highlights": [
         "Developed engaging practice sessions to improve fundamentals such as dribbling, passing, and shooting.",
@@ -93,83 +93,37 @@
       "studyType": "Bachelor of Applied Science (BASc)",
       "startDate": "2024-09-01",
       "endDate": "",
-      "score": "",
       "courses": ["SYDE 223 - Data Structures and Algorithms", "SYDE 101L - Solidworks", "SYDE 121 - Digital Computation (C++)"]
     }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [
-        "Python",
-        "C++",
-        "JavaScript",
-        "HTML/CSS",
-        "SQL"
-      ]
+      "keywords": ["Python", "C++", "JavaScript", "HTML/CSS", "SQL"]
     },
     {
       "name": "Frameworks",
-      "keywords": [
-        "React",
-        "Node.js",
-        "Express.js",
-        "FastAPI",
-        "Tailwind CSS"
-      ]
+      "keywords": ["React", "Node.js", "Express.js", "FastAPI", "Tailwind CSS"]
     },
     {
       "name": "Developer Tools/Platforms",
-      "keywords": [
-        "Visual Studio Code",
-        "Github",
-        "Figma",
-        "Solidworks",
-        "Bitbucket",
-        "Jira",
-        "Docker",
-        "Poetry",
-        "Lucid"
-      ]
+      "keywords": ["Visual Studio Code", "Github", "Figma", "Solidworks", "Bitbucket", "Jira", "Docker", "Poetry", "Lucid"]
     },
     {
       "name": "Libraries",
-      "keywords": [
-        "NumPy",
-        "Pandas",
-        "TensorFlow",
-        "Pytest",
-        "PyYAML",
-        "jsonschema",
-        "Scapy",
-        "PyShark",
-        "Uvicorn",
-        "Pydantic"
-      ]
+      "keywords": ["NumPy", "Pandas", "TensorFlow", "Pytest", "PyYAML", "jsonschema", "Scapy", "PyShark", "Uvicorn", "Pydantic"]
     }
   ],
   "interests": [
     {
       "name": "Software Interests",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Web Development",
-        "Full‑Stack Development",
-        "API Design",
-        "Cloud Computing",
-        "Open Source"
-      ]
+      "keywords": ["Web Development", "Full‑Stack Development", "API Design", "Cloud Computing", "Open Source"]
     },
     {
       "name": "Engineering Interests",
       "icon": "fa-solid fa-cogs",
-      "keywords": [
-        "Systems Design",
-        "Mechanical Engineering",
-        "CAD Modeling",
-        "3D Printing",
-        "Prototyping"
-      ]
+      "keywords": ["Systems Design", "Mechanical Engineering", "CAD Modeling", "3D Printing", "Prototyping"]
     }
   ],
   "projects": [
