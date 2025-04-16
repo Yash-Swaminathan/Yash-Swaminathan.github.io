@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yash Swaminathan",
-    "label": "Software Developer & Data Science Intern",
+    "label": "Systems Design Engineering Student",
     "image": "",
     "email": "yswamina@uwaterloo.ca",
     "phone": "587-973-3171",
@@ -147,9 +147,26 @@
   ],
   "interests": [
     {
-      "name": "Technology & Innovation",
-      "icon": "fa-solid fa-lightbulb",
-      "keywords": ["Software Development", "Data Science", "Machine Learning", "Network Security", "Open Source"]
+      "name": "Software Interests",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Web Development",
+        "Full‑Stack Development",
+        "API Design",
+        "Cloud Computing",
+        "Open Source"
+      ]
+    },
+    {
+      "name": "Engineering Interests",
+      "icon": "fa-solid fa-cogs",
+      "keywords": [
+        "Systems Design",
+        "Mechanical Engineering",
+        "CAD Modeling",
+        "3D Printing",
+        "Prototyping"
+      ]
     }
   ],
   "references": [
