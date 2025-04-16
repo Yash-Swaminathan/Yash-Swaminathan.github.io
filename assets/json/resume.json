@@ -5,14 +5,14 @@
     "image": "",
     "email": "yswamina@uwaterloo.ca",
     "phone": "587-973-3171",
-    "url": "https://www.linkedin.com/in/yash-swaminathan",
+    "LinkedIn": "https://www.linkedin.com/in/yash-swaminathan",
     "summary": "Systems Design Engineering student with hands-on experience in software development, data science, and full-stack project execution. Proven track record in developing FastAPI endpoints, engineering analytics pipelines, and creating robust full-stack solutions.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Waterloo",
+      "address": "75 Cheyanne Meadows Way",
+      "postalCode": "T3R1B6",
+      "city": "Calgary",
       "countryCode": "CA",
-      "region": "Ontario"
+      "region": "Alberta"
     },
     "profiles": [
       {
@@ -44,7 +44,7 @@
     {
       "name": "Gradiant (Synauta)",
       "position": "Data Science Intern",
-      "url": "https://example.com",
+      "url": "https://theturingcompany.com/",
       "startDate": "2023-09-01",
       "endDate": "2024-01-01",
       "summary": "Engineered a Python-based analytics pipeline to uncover operational patterns, automated the cartridge filter substitution process, and optimized replacement schedules for improved efficiency.",
@@ -57,7 +57,6 @@
     {
       "name": "Adroit Consulting",
       "position": "Property Management Intern",
-      "url": "https://example.com",
       "startDate": "2020-09-01",
       "endDate": "2024-08-01",
       "summary": "Assisted in move-in/move-out processes, organized internal reporting and financial tracking, and coordinated maintenance requests to ensure smooth property management operations.",
@@ -72,7 +71,7 @@
     {
       "organization": "Community Youth Basketball Program",
       "position": "Basketball Coach",
-      "url": "https://communityybasketball.example.com",
+      "url": "http://cochraneminorbasketball.com/",
       "startDate": "2021-09-01",
       "endDate": "Present",
       "summary": "Coached 8th grade students in basketball, emphasizing skill development, teamwork, and sportsmanship.",
