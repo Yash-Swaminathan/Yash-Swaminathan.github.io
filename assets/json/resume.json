@@ -97,25 +97,30 @@
       "courses": ["SYDE 223 - Data Structures and Algorithms", "SYDE 101L - Solidworks", "SYDE 121 - Digital Computation (C++)"]
     }
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
   "skills": [
     {
-      "name": "Technical Skills",
-      "level": "Advanced",
-      "icon": "fa-solid fa-code",
+      "name": "Languages",
       "keywords": [
         "Python",
         "C++",
         "JavaScript",
         "HTML/CSS",
-        "SQL",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
         "React",
         "Node.js",
         "Express.js",
         "FastAPI",
-        "Tailwind CSS",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Developer Tools/Platforms",
+      "keywords": [
         "Visual Studio Code",
         "Github",
         "Figma",
@@ -124,7 +129,12 @@
         "Jira",
         "Docker",
         "Poetry",
-        "Lucid",
+        "Lucid"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "keywords": [
         "NumPy",
         "Pandas",
         "TensorFlow",
@@ -167,13 +177,6 @@
         "3D Printing",
         "Prototyping"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Network Anomaly Detection System",
-      "icon": "fa-solid fa-network-wired",
-      "reference": "A real-time threat detection system that leverages deep autoencoders and isolation forests, with a comprehensive pipeline and a dynamic React dashboard for visualization."
     }
   ],
   "projects": [
