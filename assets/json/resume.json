@@ -148,13 +148,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Software Interests",
@@ -184,8 +177,6 @@
       "name": "Network Anomaly Detection System",
       "summary": "Built a real-time threat detection system with deep autoencoders and isolation forests. Engineered a comprehensive pipeline and deployed a FastAPI backend connected to a dynamic React dashboard for real-time anomaly visualization.",
       "highlights": ["Real-time anomaly detection", "Deep autoencoders and isolation forests", "FastAPI backend and React dashboard"],
-      "startDate": "",
-      "endDate": "",
       "url": "https://github.com/Yash-Swaminathan/NetAnomaly"
     },
     {
@@ -196,8 +187,6 @@
         "Full-stack integration using FastAPI and React",
         "Docker containerization and Poetry orchestration"
       ],
-      "startDate": "",
-      "endDate": "",
       "url": "https://github.com/Yash-Swaminathan/Schema-Validator"
     }
   ]
