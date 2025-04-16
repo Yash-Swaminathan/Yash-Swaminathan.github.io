@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Yash-Swaminathan
+
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Yash-Swaminathan/NetAnomaly
+  - Yash-Swaminathan/Schema-Validator
+  - Yash-Swaminathan/Stock-Market-Predictor
+  - Yash-Swaminathan/MERN-Project
+  - Yash-Swaminathan/library-system
+
